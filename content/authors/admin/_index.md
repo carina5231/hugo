@@ -6,11 +6,11 @@ title: Carina's
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 職業學生
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 社會大學
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
